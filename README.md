@@ -8,4 +8,4 @@ The data set used for this project was gotten from kaggle.com
 ## Problem Statement
 The problem statement was generated base on four category
 
-- _Customer Problem Statement_
+- **Customer Problem Statement**
