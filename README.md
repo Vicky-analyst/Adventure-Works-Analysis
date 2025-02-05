@@ -17,8 +17,8 @@ The problem statement was generated base on four category
 
 - Are there significant different in spending patterns between Male and Female Customer and which category generate the highest Revenue.
 - How does revenue vary between single and married and which group contribute the most in sales.
-- How does Revenue generation differ amoung customers with different Educational Background and which Educational Level contribute the most in the over all sales.
-- Which occupation category contribute the most in Revenue and how does the spending behaviour vary across the different category.
+- How does Revenue generation differ amoung customers with different Occupation and which Occupational Level contribute the most in the over all sales.
+- Which Income Group category contribute the most in Revenue and how does the spending behaviour vary across the different category.
  
 ### Product Problem Statement
 
@@ -57,3 +57,9 @@ The problem statement was generated base on four category
      ![](data_cleaning_removing_columns.png)
      
 - Data Analysis
+
+## Data Analysis & Findings
+**Customer Findings**
+- Revenue analysis based on customer gender reveals no significant difference in spending patterns between male and female customers. Both genders contribute almost equally to total sales, with female sales trailing male sales by just 0.8%.
+- Revenue analysis based on marital status shows that married customers generate $12.9M out of the total $24M in revenue, surpassing single customers, who contribute $12.0M, by 3.6%.
+- Customers with professional occupations generate the highest revenue, contributing $8.5M (34.0%) of the total revenue. typically falling between low-income and average-income earners, this group shows a strong preference for bikes, which is the top-selling product.
