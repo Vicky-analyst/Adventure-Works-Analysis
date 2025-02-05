@@ -112,4 +112,10 @@ Using a violin plot, there is more density in customer with low and average inco
 
 **Revene by Occupation**
 
-![](Revenue_by_marital_status.png)
+![](Revenue_by_occupation.png)
+
+### Product Vizualization
+
+**Revenue by Product**
+
+![](Revenue_by_occupation.png)
