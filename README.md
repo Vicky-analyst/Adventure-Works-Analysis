@@ -79,6 +79,7 @@ The problem statement was generated base on four category
 ## Over All Insight
 
 In the Time Series Analysis, there are certain splik in sales and this are my three reasons
+
 **Weather Condition**
 
 Bike Product generate 94.9% in top countries like US, UK, and Austrialia
@@ -92,7 +93,7 @@ Has leads turns into customers there is an increase in orders which significantl
 
 **Customer Income**
 
-Using a violin plot, there is more density in customer with low and average income compared to high income, noting that Bikes contribute 96.9% in sales customers with average and low income often purchases Bke for
+Using a violin plot, there is more density in customer with low and average income compared to high income, noting that Bikes contribute 96.9% in sales customers with average and low income often purchases Bike for
  - Afforability and Cost Efficient
  - Leisure and Recreation
  - Eco-Friendly Transportation
