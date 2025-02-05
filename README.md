@@ -65,7 +65,7 @@ The problem statement was generated base on four category
 - Customers with professional occupations generate the highest revenue, contributing $8.5M (34.0%) of the total revenue. typically falling between low-income and average-income earners, this group shows a strong preference for bikes, which is the top-selling product.
 
 **Product Findings**
-- The bike category dominates sales, generating 94.9% of total revenue across its three categories. Spreading its sales across its subcategory, Mountain bikes which contribute the highest revenue at $18.6M, followed by road bikes at $11.2M, and touring bikes at $3.8M.
+- The bike category dominates sales, generating 94.9% of total revenue across its three categories. Spreading its sales across its subcategory, Road bikes which contribute the highest revenue at $11.2M, followed by Mountain bikes at $8.6M, and touring bikes at $3.8M.
 - Although bikes account for 94.9% of total sales, accessories rank as the most returned product category, making up 61% of all returns. The overall return rate remains low at 2.17%.
 
 **Time Series Findings**
