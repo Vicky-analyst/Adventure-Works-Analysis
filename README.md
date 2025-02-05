@@ -101,4 +101,4 @@ Using a violin plot, there is more density in customer with low and average inco
 ## Visualization
 Profit Overtime Dashboard                      |                     Customer-Product Dashboard                
 :---------------------------------------------:|:-----------------------------------------------:
-![](Visualization_of_Global_superstore_1.png) |  ![](Visualization_of_Global_superstore_2.png)
+![](Revenue_by_gender.png) |  ![](Visualization_of_Global_superstore_2.png)
