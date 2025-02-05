@@ -118,4 +118,10 @@ Using a violin plot, there is more density in customer with low and average inco
 
 **Revenue by Product**
 
-![](Revenue_by_occupation.png)
+![](Revenue_by_product.png)
+
+## Time Series Vizualization
+
+**Revenue and Profit over time**
+
+![](Revenue_by_product.png)
