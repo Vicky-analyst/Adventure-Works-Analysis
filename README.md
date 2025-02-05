@@ -77,17 +77,21 @@ The problem statement was generated base on four category
 - North America generates the highest sales revenue among all continents, totaling $9.7M. Within the continent, the United States contributes the majority of sales, accounting for $7.9M.
 
 ## Over All Insight
+
 In the Time Series Analysis, there are certain splik in sales and this are my three reasons
 **Weather Condition**
+
 Bike Product generate 94.9% in top countries like US, UK, and Austrialia
 During the spring Period (April, May and June) in the northern hermisphere **Road Bike** are more popular because people return to cycling after winter.
 In the northern(United State) and southern(Austrialia, UK, Germany) hermisphere during summer period (June, July and August) (December, January and Feburary) which is relatively hot, warm season **Moutain Bikes** and **Tourist Bike** become more popular as people will take advantage of summer condition to explore rougher terrians and embark on longer cycing tour.
 During the fall season in the sourthern hermisphere **Moutain Bikes** is an excellent time for fall seasons
 
 **Increase in Customer**
+
 Has leads turns into customers there is an increase in orders which significantly lead to an increase in sales. The customer increased from 931 in April 2021 to 5934 in April 2022
 
 **Customer Income**
+
 Using a violin plot, there is more density in customer with low and average income compared to high income, noting that Bikes contribute 96.9% in sales customers with average and low income often purchases Bke for
  - Afforability and Cost Efficient
  - Leisure and Recreation
