@@ -98,3 +98,7 @@ Using a violin plot, there is more density in customer with low and average inco
  - Leisure and Recreation
  - Eco-Friendly Transportation
 
+## Visualization
+Profit Overtime Dashboard                      |                     Customer-Product Dashboard                
+:---------------------------------------------:|:-----------------------------------------------:
+![](Visualization_of_Global_superstore_1.png) |  ![](Visualization_of_Global_superstore_2.png)
