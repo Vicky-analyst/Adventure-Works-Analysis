@@ -99,6 +99,6 @@ Using a violin plot, there is more density in customer with low and average inco
  - Eco-Friendly Transportation
 
 ## Visualization
-Profit Overtime Dashboard                      |                     Customer-Product Dashboard                
-:---------------------------------------------:|:-----------------------------------------------:
-![](Revenue_by_gender.png) |  ![](Visualization_of_Global_superstore_2.png)
+Revenue By Gender           |       Revenue By Marital Status                
+:--------------------------:|:-------------------------------------------:
+![](Revenue_by_gender.png) |  ![](Revenue_by_marital_status.png)
