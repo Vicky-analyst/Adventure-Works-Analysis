@@ -41,6 +41,7 @@ The problem statement was generated base on four category
 - Data cleaning
     which involues
    - Adding addtion column for measure calculation
+     
      ![](data_cleaning_adding_columns.png)
      
    - Removing null values
