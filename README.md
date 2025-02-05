@@ -49,6 +49,8 @@ The problem statement was generated base on four category
      ![](data_cleaning_null_values.png)
      
    - Converting data type
+
+     ![](data_cleaning_data_types.png)
      
    - Removing unwanted columns
      
