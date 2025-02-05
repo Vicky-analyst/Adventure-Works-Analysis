@@ -16,6 +16,7 @@ The problem statement was generated base on four category
   ### Customer Problem Statement
 
   - Are there significant different in spending patterns between Male and Female Customer and which category generate the highest Revenue.
+    
   - How does revenue vary between single and married and which group contribute the most in sales.
   - How does Revenue generation differ amoung customers with different Educational Background and which Educational Level contribute the most in the over all sales.
   - Which occupation category contribute the most in Revenue and how does the spending behaviour vary across the different category.
