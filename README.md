@@ -53,5 +53,7 @@ The problem statement was generated base on four category
      ![](data_cleaning_data_types.png)
      
    - Removing unwanted columns
+
+     ![](data_cleaning_removing_columns.png)
      
 - Data Analysis
