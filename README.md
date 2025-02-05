@@ -114,6 +114,11 @@ Using a violin plot, there is more density in customer with low and average inco
 
 ![](Revenue_by_occupation.png)
 
+**Revene by Income Group**
+
+![](Revenue_by_occupation.png)
+
+
 ### Product Vizualization
 
 **Revenue by Product**
@@ -142,5 +147,7 @@ Using a violin plot, there is more density in customer with low and average inco
 
 **Revenue by geography**
 
+![](revenue_by_geography.png)
 
-
+To interact with the python project
+[Click Here](revenue_by_geography.png)
