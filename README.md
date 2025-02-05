@@ -45,7 +45,11 @@ The problem statement was generated base on four category
      ![](data_cleaning_adding_columns.png)
      
    - Removing null values
+     
+     ![](data_cleaning_null_values.png)
+     
    - Converting data type
+     
    - Removing unwanted columns
      
 - Data Analysis
