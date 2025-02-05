@@ -149,5 +149,6 @@ Using a violin plot, there is more density in customer with low and average inco
 
 ![](revenue_by_geography.png)
 
-To interact with the python project
-[Click Here](revenue_by_geography.png)
+#### To interact with the python project
+
+[Click Here](Avenenture_Sales_Data.ipynb)
