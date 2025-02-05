@@ -63,3 +63,18 @@ The problem statement was generated base on four category
 - Revenue analysis based on customer gender reveals no significant difference in spending patterns between male and female customers. Both genders contribute almost equally to total sales, with female sales trailing male sales by just 0.8%.
 - Revenue analysis based on marital status shows that married customers generate $12.9M out of the total $24M in revenue, surpassing single customers, who contribute $12.0M, by 3.6%.
 - Customers with professional occupations generate the highest revenue, contributing $8.5M (34.0%) of the total revenue. typically falling between low-income and average-income earners, this group shows a strong preference for bikes, which is the top-selling product.
+
+**Product Findings**
+- The bike category dominates sales, generating 94.9% of total revenue across its three categories. Spreading its sales across its subcategory, Mountain bikes which contribute the highest revenue at $18.6M, followed by road bikes at $11.2M, and touring bikes at $3.8M.
+- Although bikes account for 94.9% of total sales, accessories rank as the most returned product category, making up 61% of all returns. The overall return rate remains low at 2.17%.
+
+**Time Series Findings**
+- Sales experienced a significant year-over-year (YoY) increase of $2.9M (45.6%) from 2020 to 2021. From 2021 to 2023, sales continued to grow steadily and are forecasted to keep rising due to strong performance in the first half of 2023. However, the absence of sales data for the second half of 2023 prevents an accurate YoY comparison for that year.
+- Customer acquisition has grown significantly each year, with 309 new customers added between April 2020 and April 2021, followed by a massive increase of 5,000 new customers by April 2023. This surge in customer base has directly contributed to a significant rise in sales.
+- The significant increase in customers has directly driven a 98% surge in orders, reflecting higher purchasing activity.
+
+**Geography Findings**
+- North America generates the highest sales revenue among all continents, totaling $9.7M. Within the continent, the United States contributes the majority of sales, accounting for $7.9M.
+
+## Over All Insight
+
