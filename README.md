@@ -78,7 +78,7 @@ The problem statement was generated base on four category
 
 ## Over All Insight
 
-In the Time Series Analysis, there are certain splik in sales and this are my three reasons
+In the Time Series Analysis, there are certain spike in sales and this are my three reasons
 
 **Weather Condition**
 
@@ -99,6 +99,17 @@ Using a violin plot, there is more density in customer with low and average inco
  - Eco-Friendly Transportation
 
 ## Visualization
-Revenue By Gender           |       Revenue By Marital Status                
-:--------------------------:|:-------------------------------------------:
-![](Revenue_by_gender.png) |  ![](Revenue_by_marital_status.png)
+
+### Customer Vizualization
+
+**Revenue By Gender**                         
+
+![](Revenue_by_gender.png) 
+
+**Revenue By Marital Status**        
+
+![](Revenue_by_marital_status.png)
+
+**Revene by Occupation**
+
+![](Revenue_by_marital_status.png)
