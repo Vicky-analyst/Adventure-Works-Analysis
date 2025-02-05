@@ -124,4 +124,8 @@ Using a violin plot, there is more density in customer with low and average inco
 
 **Revenue and Profit over time**
 
-![](Revenue_by_product.png)
+![](Revenue_and_profit_overtime.png)
+
+**Customer over time**
+
+![](Revenue_and_profit_overtime.png)
