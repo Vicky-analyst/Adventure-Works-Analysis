@@ -100,7 +100,7 @@ Using a violin plot, there is more density in customer with low and average inco
 
 ## Visualization
 
-### Customer Vizualization
+### Customer Visualization
 
 **Revenue By Gender**                         
 
@@ -110,7 +110,7 @@ Using a violin plot, there is more density in customer with low and average inco
 
 ![](Revenue_by_marital_status.png)
 
-**Revene by Occupation**
+**Revenue by Occupation**
 
 ![](Revenue_by_occupation.png)
 
@@ -119,13 +119,13 @@ Using a violin plot, there is more density in customer with low and average inco
 ![](Revenue_by_occupation.png)
 
 
-### Product Vizualization
+### Product Visualization
 
 **Revenue by Product**
 
 ![](Revenue_by_product.png)
 
-## Time Series Vizualization
+## Time Series Visualization
 
 **Revenue and Profit over time**
 
@@ -143,7 +143,7 @@ Using a violin plot, there is more density in customer with low and average inco
 
 ![](Quantity_returned_overtime.png)
 
-## Geography Vizualization
+## Geography Visualization
 
 **Revenue by geography**
 
@@ -152,3 +152,20 @@ Using a violin plot, there is more density in customer with low and average inco
 #### To interact with the python project
 
 [Click Here](Avenenture_Sales_Data.ipynb)
+
+## Recommendations Based on Analysis and Findings
+
+### Optimize Inventory for High-Demand Products
+Since bikes generate 94.9% of total sales, with Road bikes leading, businesses should prioritize stock availability, streamline supply chains, and ensure competitive pricing to sustain and grow revenue.
+
+### Improve Quality Control for Accessories
+Accessories are the most returned category (61% of all returns). Enhancing product descriptions, improving quality, and refining the return policy can reduce return rates and improve customer satisfaction.
+
+### Expand Marketing Efforts in North America
+North America generates the highest revenue ($9.7M), with the U.S. contributing $7.9M. Businesses should strengthen their market presence in the U.S. while exploring untapped regions in Canada and France to maximize growth.
+
+### Enhance Customer Acquisition and Retention Strategies
+With 5,000 new customers added in 2023 and a 98% increase in orders, businesses should focus on loyalty programs, personalized promotions, and efficient customer service to maintain growth momentum.
+
+### Leverage the Professional Market for Bike Sales
+Professionals contribute the highest revenue ($8.5M) and favor bikes for affordability and efficiency. Businesses should tailor marketing campaigns highlighting cost-effectiveness, eco-friendliness, and convenience to further drive sales.
